@@ -135,6 +135,11 @@ section#my-work {
     background-color: var(--color-3);
 }
 
+section#resumes {
+    background-color: var(--color-3);
+
+}
+
 .grid-container {
     margin-top: 3em;
     margin-bottom: 3em;
